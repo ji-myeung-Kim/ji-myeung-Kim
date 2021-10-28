@@ -9,7 +9,7 @@
 
 
 ![jimyeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-myeung-Kim&show_icons=true&theme=monokai)<br>
- 티스토리 블로그 <a href="https://jimyeung-dev-til.tistory.com/">
+ 티스토리 블로그: <a href="https://jimyeung-dev-til.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-jimyeung's tistory-222222?style=flat&logo=Vector Logo Zone&link=https://jimyeung-dev-til.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
